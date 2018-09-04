@@ -23,12 +23,10 @@ We choose FCN to check the effectiveness of ynthetic to realistic image generati
 | Cityscapes + Real GTA |   42.7   |  
 
 
-##Referances
+## Referances
 
 ![UNIT: UNsupervised Image-to-image Translation Networks](https://github.com/mingyuliutw/UNIT)
-
 ![FCN8s Implementation](https://github.com/pierluigiferrari/fcn8s_tensorflow)
-
 ![Converted version of GTA dataset](https://drive.google.com/open?id=1WRyH9buNUMvfuBXw9gH35XpY7-bf9CZR)
 
 
