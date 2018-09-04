@@ -15,7 +15,7 @@ The use of synthetic data in semantic segmentation task have already proven to b
 We choose FCN to check the effectiveness of ynthetic to realistic image generation. We feed this realistic version of the GTA dataset along with a very popular sementic segmentation dataset (![Cityscapes](https://www.cityscapes-dataset.com/)) to the FCN model. 
 
 | Approch    | mIoU(%) | 
-|----------  |-------------|
+|:---------------:  |:---------------:|
 | Only Cityscapes|    34.15|  
 |  Only GTA  |   25.16 | 
 |  Cityscapes +  GTA | 35.13  |
