@@ -1,4 +1,4 @@
-# Improving sementic segmentation performance using synthetic to realistic image generation using advarsarial doamin transfer method
+# Improving sementic segmentation performance using synthetic to realistic image generation using advarsarial domain transfer method
 
 ![PIC](Photos/syn.png)
 
