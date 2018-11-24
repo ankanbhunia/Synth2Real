@@ -1,4 +1,4 @@
-# Improving sementic segmentation performance using synthetic to realistic image generation using advarsarial domain transfer method
+# Improving semantic segmentation performance using synthetic to realistic image generation using adversarial domain transfer method
 
 ![PIC](Photos/syn.png)
 
